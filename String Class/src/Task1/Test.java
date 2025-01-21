@@ -3,6 +3,7 @@ package Task1;
 public class Test {
 
 	public static void main(String[] args) {
+		System.out.println("Welcome...");
 		
 		String a="Hello";
 		String b="Hello";
